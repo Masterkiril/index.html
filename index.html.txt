@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>John Doe - Web Designer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f0f0;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background: #333;
+      color: white;
+      padding: 2em 0;
+    }
+    section {
+      padding: 2em;
+    }
+    .btn {
+      background: #007bff;
+      color: white;
+      padding: 0.5em 1em;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>John Doe</h1>
+    <p>Professional Web Designer</p>
+  </header>
+  <section>
+    <h2>My Services</h2>
+    <p>I design modern and responsive websites for clients worldwide.</p>
+    <a href="mailto:john@example.com" class="btn">Hire Me</a>
+  </section>
+</body>
+</html>
